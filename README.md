@@ -19,6 +19,7 @@ El presente proyecto trata de una aplicación realizada en Ionic 4 la cual tiene
 link de descarga:  [https://code.visualstudio.com/](https://code.visualstudio.com/)
  - NodeJS.
 link de descarga: [https://nodejs.org/es/download/](https://nodejs.org/es/download/)
+ - Cuenta de Google y en OMDb API.
 
 
 ## Desarrollo de la aplicación

@@ -3,6 +3,9 @@
     <ion-buttons slot="start">
       <ion-back-button defaultHref="/"></ion-back-button>
     </ion-buttons>
+    <ion-button slot="end" color="light" (click)="onLogout()">
+      <ion-icon name="log-out"></ion-icon>
+    </ion-button>
     <ion-title>{{content?.Title}}</ion-title>
   </ion-toolbar>
 </ion-header>

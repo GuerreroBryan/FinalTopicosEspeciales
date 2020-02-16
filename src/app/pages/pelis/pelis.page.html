@@ -1,6 +1,13 @@
-<ion-header>
-  <ion-toolbar color="primary">
-    <ion-title style="justify-content: center;">ImdDB</ion-title>
+<script type="module" src="https://cdn.jsdelivr.net/npm/@ionic/core@next/dist/ionic/ionic.esm.js"></script>
+<script nomodule src="https://cdn.jsdelivr.net/npm/@ionic/core@next/dist/ionic/ionic.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@ionic/core@next/css/ionic.bundle.css"/>
+
+<ion-header style="text-align: center;">
+  <ion-toolbar color="primary" style="text-align: center;">
+    <ion-title >ImdDB</ion-title>
+    <ion-button slot="end" color="light" (click)="onLogout()">
+      <ion-icon name="log-out"></ion-icon>
+    </ion-button>
   </ion-toolbar>
 </ion-header>
 

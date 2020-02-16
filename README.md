@@ -24,5 +24,5 @@ link de descarga: [https://nodejs.org/es/download/](https://nodejs.org/es/downlo
 
 ## Desarrollo de la aplicación
 
-El siguiente link muestra el proceso de creación, implementación y desarrollo del mismo: 
+El siguiente link muestra la estructuracion, implementación y desarrollo del mismo de una manera básica: https://youtu.be/OPlxh0lgT2Q
 
